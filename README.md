@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: tran trong nghia
+* Student Name: trần trọng nghĩa
 * Student ID: 22bi13332
 
